@@ -21,19 +21,19 @@ For this project we used some external libraries :
 # Screenshots
 
 # Z-Buffer
-![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/cube.PNG)
+![alt text](https://github.com/gabrielboisvert/Rasterizer/blob/main/ScreenShot/cube.PNG)
 
 # Light
-![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Light.PNG)
+![alt text](https://github.com/gabrielboisvert/Rasterizer/blob/main/ScreenShot/Light.PNG)
 
 # Wireframe with Backface Culling
-![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Line.PNG)
+![alt text](https://github.com/gabrielboisvert/Rasterizer/blob/main/ScreenShot/Line.PNG)
 
 # Recrete Triangle if out of the screen
-![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Line3.PNG)
+![alt text](https://github.com/gabrielboisvert/Rasterizer/blob/main/ScreenShot//Line3.PNG)
 
 # Alpha-Blending
-![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Opacitie.PNG)
+![alt text](https://github.com/gabrielboisvert/Rasterizer/blob/main/ScreenShot/Opacitie.PNG)
 
 # Scene
-![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Scene.PNG)
+![alt text](https://github.com/gabrielboisvert/Rasterizer/blob/main/ScreenShot/Scene.PNG)
