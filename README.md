@@ -11,7 +11,6 @@ The project is divided into 7 main features :
 - Wireframe with Backface Culling
 - Bilinear filtering
 - Alpha-Blending
-- Anti-aliasing
 
 # External dependencies
 For this project we used some external libraries :
@@ -23,3 +22,18 @@ For this project we used some external libraries :
 
 # Z-Buffer
 ![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/cube.PNG)
+
+# Light
+![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Light.PNG)
+
+# Wireframe with Backface Culling
+![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Line.PNG)
+
+# Recrete Triangle if out of the screen
+![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Line3.PNG)
+
+# Alpha-Blending
+![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Opacitie.PNG)
+
+# Scene
+![alt text](https://github.com/gabrielboisvert/Rasterizer/tree/main/ScreenShot/Scene.PNG)
